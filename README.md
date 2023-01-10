@@ -4,11 +4,9 @@
 
 I'm Yoon and I majored, graduated, and worked in accounting, but transitioned to Full Stack Web Development. I used to work with numbers, but now I'm working with programming languages.
 - 💬 Ask me about how I got here.
-- 🌱 I’m currently learning TypeScript, Redux, and Algorithms.
+- 🌱 I’m currently learning Algorithms, Hooks, and TypeScript.
 - 👯 I’m looking to collaborate on anything with anyone.
-- ⚡ Fun facts:
-  - I broke my foot trying to catch a robber
-  - Working with my previous employer sparked my interest in working with coding
+- ⚡ Working with my previous employer sparked my interest in working with coding
 - 📫 My [LinkedIn](https://www.linkedin.com/in/yoonhcho/)
 
 # Languages and Tools:
