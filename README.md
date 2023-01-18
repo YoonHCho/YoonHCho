@@ -1,6 +1,7 @@
 # Hello, World 👋🌏
 <!-- https://github-readme-stats.vercel.app/api?username=YoonHCho&count_private=true -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonHCho&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonHCho&show_icons=true) -->
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoonHCho&theme=react&line_height=40&hide=css"/> </a>
 
 I'm Yoon and I majored, graduated, and worked in accounting, but transitioned to Full Stack Web Development. I used to work with numbers, but now I'm working with programming languages.
 - 💬 Ask me about how I got here.
