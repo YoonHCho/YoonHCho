@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YoonHCho&show_icons=true)
 
 
-I'm Yoon and I majored, graduated, and worked in accounting, but transitioned to Full Stack Web Development. I used to work with numbers, but now I'm working with programming languages.
+I'm Yoon and I majored, graduated, and worked in accounting, but transitioned to Full Stack Software Engineer. I used to work with numbers, but now I'm working with programming languages.
 - 💬 Ask me about how I got here.
 - 🌱 I’m currently learning Algorithms, Hooks, and TypeScript.
 - 👯 I’m looking to collaborate on anything with anyone.
