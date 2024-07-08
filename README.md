@@ -5,7 +5,7 @@
 
 I'm Yoon and I majored, graduated, and worked in accounting, but transitioned to Full Stack Software Engineer. I used to work with numbers, but now I'm working with programming languages.
 - 💬 Ask me about how I got here.
-- 🌱 I’m currently learning Algorithms, Hooks, and TypeScript.
+- 🌱 I’m currently learning Algorithms and Java.
 - 👯 I’m looking to collaborate on anything with anyone.
 - ⚡ Working with my previous employer sparked my interest in working with coding
 - 📫 My [LinkedIn](https://www.linkedin.com/in/yoonhcho/)
